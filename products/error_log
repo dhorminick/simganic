@@ -1,0 +1,5 @@
+[16-Aug-2022 02:53:35 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tedmani4/simganic.tedmaniatv.com/_layout/single-product.php on line 5
+[16-Aug-2022 02:56:02 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tedmani4/simganic.tedmaniatv.com/products/_layout/single-product.php on line 5
+[16-Aug-2022 02:57:06 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tedmani4/simganic.tedmaniatv.com/products/_layout/single-product.php on line 5
+[16-Aug-2022 02:58:55 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tedmani4/simganic.tedmaniatv.com/products/_layout/single-product.php on line 5
+[16-Aug-2022 03:00:22 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tedmani4/simganic.tedmaniatv.com/_layout/single-product.php on line 6

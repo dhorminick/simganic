@@ -1,0 +1,40 @@
+.select2-search__field{
+	display: none !important;
+}
+#3B3D55
+fa fa-times-circle
+if chaanging cancel order id on faqs page dont forgett to update mail
+
+
+offer add to wishlist before deleting from cart
+prolly add strikes to users if changed values later
+
+create a dispute page to show open disputes etc
+remove mail->send()
+
+when doing seo, change all mystyle.css to custom.css
+if you're being rude and theres a need to be rude, you're not being rude are you?
+you are just responding appropriately to the given situation
+
+How to use a Transmitter Led Sensor as a Receiver sensor download/python
+hardware virus bug
+include $_SERVER['DOCUMENT_ROOT'].
+disputes
+support
+reports
+
+carter netflix
+xxxtentacion cant keep my in my pants anime edit
+
+After getting your product delivered, you will be able to rate and review them. Your feeedback will be publiiched on the product page to help all SimGanic's users get the best shopping experience
+add pagination to reviews page
+pages using mail
+contact us
+open dispute
+shipped products
+
+order
+disputes 
+
+brothers grimsby
+a:0:{}
